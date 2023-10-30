@@ -60,3 +60,13 @@ input.operator {
     color: #22A39F;
     background-color: #434242;
 }
+
+
+/* Responsiveness */
+
+@media (max-width:425px) {
+    input {
+        width: 50px;
+        height: 50px;
+    }
+}
